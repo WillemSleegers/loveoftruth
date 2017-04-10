@@ -1,0 +1,10 @@
+---
+title: "References"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Weber, E. U., Johnson, E. J., Milch, K. F., Chang, H., Brodscholl, J. ., & Goldstein, D. G. (2007). Asymmetric Discounting in Intertemporal Choice: A qyery-theory account. Psychological Science, 18(6), 516–524. https://doi.org/10.1111/j.1467-9280.2007.01932.x
