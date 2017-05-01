@@ -7,4 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-- Weber, E. U., Johnson, E. J., Milch, K. F., Chang, H., Brodscholl, J. ., & Goldstein, D. G. (2007). Asymmetric Discounting in Intertemporal Choice: A qyery-theory account. Psychological Science, 18(6), 516–524. https://doi.org/10.1111/j.1467-9280.2007.01932.x
+- Davidov, E., Schmidt, P., & Schwartz, S. (2008) Bringing values back in: The adequacy of the European Social Survey to measure values in 20 countries. Public Opinion Quarterly, 72 (3), 420-445. https://doi.org/10.1093/poq/nfn035
+- DeBacker, T. K., Crowson, H. M., Beesley, A. D., Thoma, S. J., & Hestevold, N. L. (2008). The challenge of measuring epistemic beliefs: An analysis of three self-report instruments. The Journal of Experimental Education, 76(3), 281–312. http://doi.org/10.3200/JEXE.76.3.281-314
+- Farias, M., Newheiser, A. K., Kahane, G., & de Toledo, Z. (2013). Scientific faith: Belief in science increases in the face of stress and existential anxiety. Journal of Experimental Social Psychology, 49(6), 1210–1213. http://doi.org/10.1016/j.jesp.2013.05.008
+- Lindeman, M., & Verkasalo, M. (2005). Measuring values with the short Schwartz’s Value Survey. Journal of Personality Assessment, 85, 170–178. http://doi.org/10.1207/s15327752jpa8502
