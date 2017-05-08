@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Farias, M., Newheiser, A. K., Kahane, G., & de Toledo, Z. (2013). Scientific faith: Belief in science increases in the face of stress and existential anxiety. Journal of Experimental Social Psychology, 49(6), 1210–1213. http://doi.org/10.1016/j.jesp.2013.05.008
 - Lindeman, M., & Verkasalo, M. (2005). Measuring values with the short Schwartz’s Value Survey. Journal of Personality Assessment, 85, 170–178. http://doi.org/10.1207/s15327752jpa8502
 
-
+[//]: # (This is a comment)
 ## Bullshit related:
 - Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. (2015). On the reception and detection of pseudo-profound bullshit. Judgment and Decision Making, 10(6), 549–563. http://doi.org/10.3389/fpsyg.2013.00279
 - Dalton, C. (2016). Bullshit for you; transcendence for me . A commentary on “On the reception and detection of pseudo-profound bullshit.” Judgment and Decision Making, 11(1), 121–122.

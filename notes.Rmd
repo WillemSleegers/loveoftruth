@@ -21,3 +21,15 @@ Or have both behavioural and attitudinal subscales?
 This poses some questions, such as how much does the average person care about truth itself, compared with desiring accuracy as a means to an end? How can we disentangle believing what is true because it serves a practical purpose vs believing what is true based on an intrinsic value of truth?
 
 Maybe we should control for the attainability of objective truth? (DeBacker, Crowson, Beesley, Thoma, & Hestevold, 2008; Schommer, 1994). Some items from the 
+
+
+## Steps
+
+- Gather relevant literature
+    - Most important question: Is there already a scale that measures people's value for truth?
+    - If not: what does our work contribute?
+- Construct scale
+- Perform item analysis (PCA?)
+- Test construct validity
+
+
