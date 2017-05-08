@@ -1,9 +1,23 @@
-## Notes
+# Notes
 
-This is a test.
+## Research question 
+The research question concerns whether people care whether what they believe is actually true? That is, do they value truth?
 
-# Todo:
+## Truth definition
+What is truth? Truth is in direct relation to reality, it has a “relational property involving a characteristic relation (to be specified) to some portion of reality (to be specified)”, according to correspondence theory (Marian, 2016). That is, truth corresponds with facts. Although all facts could be disputed in a philosophical sense, we want to avoid this avenue by conceptualising facts in the general sense understood by the general public. That is, a statement which corresponds to an event or occurrence in reality. We want to measure the underlying construct which compels people to fact check news stories, or seek scientific information regarding the efficacy of horoscopes predicting/determining the future, and to seek that information in an impartial way on order to find the truth or the best evidence available. We are not concerned with value judgements, the ability to determine whether something is true or not, or whether a person holds predominantly true beliefs. We are concerned with their motivation to find the most objective and factual evidence. 
 
-- Todo1
-- Todo2
+Lynch (2004) argues that caring for truth is different from simply believing the truth. Truth can be acquired through no particular virtue of the individual, but caring about truth requires one to strive for truth; to put effort in. Lynch argues that to care about truth is to strive for truth behaviourally; to have a character orientated towards truth. This includes being open minded, questioning assumptions, and paying attention to detail. 
+It also involves being intellectually virtuous which entails striving for truth across many domains. That is, not just listening to others when one is obliged to do so or for shame’s sake, but having a willingness to actively engage with others to ensure alternative perspectives have been considered and will change beliefs appropriately given evidence. Striving for truth in across all domains reflects that one values knowing the truth for the sake of it, rather than believing whatever helps achieve one’s goals. Must seek and be open to truth precisely because it is the truth.
+Lynch argues caring for truth also manifests as a willingness to stand up for what you believe, not just when it is convenient, but even when it goes against the crowd. Must stand up for truth because it is right to do so, not just because a specific fact fits with your goals and motivations. “… a person of intellectual integrity stands for what she thinks is true precisely because she thinks it is true.” Hence, must pursue the truth overall, not just when it suits you. This contrasts with someone who believes/acts out of necessity to attain their goal, regardless of the truth. Hence, caring about truth means taking steps to avoid motivated reasoning. Lynch has outlined some characteristics of those who care about believing what is true and strive to attain that goal. 
 
+## Questions
+
+Measuring agreement with statements that reflect such behaviours could be used to assess the underlying construct, for example, ‘I try to fact check the stories I here in the news with reliable sources.’
+
+Or perhaps we should avoid measuring behaviours which may add noise to participants’ responses. Could focus on attitudes towards truth, e.g., ‘I care about finding the truth for its own sake, not any practical purpose it could serve.’
+
+Or have both behavioural and attitudinal subscales?
+
+This poses some questions, such as how much does the average person care about truth itself, compared with desiring accuracy as a means to an end? How can we disentangle believing what is true because it serves a practical purpose vs believing what is true based on an intrinsic value of truth?
+
+Maybe we should control for the attainability of objective truth? (DeBacker, Crowson, Beesley, Thoma, & Hestevold, 2008; Schommer, 1994). Some items from the 
