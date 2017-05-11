@@ -1,12 +1,14 @@
 ### Care for truth
 
 - Grimm, S. R. (2008). Epistemic goals and epistemic values. Philosophy and Phenomenological Research, 77(3), 725–744. https://doi.org/10.1111/j.1933-1592.2008.00217.x
+- Lynch, M. P. (2004). Who Cares About the Truth?, 1–4.
+- Wrenn, C. B. (2015). Truth is not (Very) Intrinsically Valuable. Pacific Philosophical Quarterly, 98(2017), 108–128. https://doi.org/10.1111/papq.12117 # sparked A FEW ideas, especially the section on CARING ABOUT TRUTH IS GOOD FOR US, but not totally relevant.
+
 
 
 ### Measuring values related
 
 - Davidov, E., Schmidt, P., & Schwartz, S. (2008) Bringing values back in: The adequacy of the European Social Survey to measure values in 20 countries. Public Opinion Quarterly, 72 (3), 420-445. https://doi.org/10.1093/poq/nfn035 
-
 - DeBacker, T. K., Crowson, H. M., Beesley, A. D., Thoma, S. J., & Hestevold, N. L. (2008). The challenge of measuring epistemic beliefs: An analysis of three self-report instruments. The Journal of Experimental Education, 76(3), 281–312. http://doi.org/10.3200/JEXE.76.3.281-314
 - Farias, M., Newheiser, A. K., Kahane, G., & de Toledo, Z. (2013). Scientific faith: Belief in science increases in the face of stress and existential anxiety. Journal of Experimental Social Psychology, 49(6), 1210–1213. http://doi.org/10.1016/j.jesp.2013.05.008
 - Lindeman, M., & Verkasalo, M. (2005). Measuring values with the short Schwartz’s Value Survey. Journal of Personality Assessment, 85, 170–178. http://doi.org/10.1207/s15327752jpa8502
@@ -17,3 +19,4 @@
 ### Bullshit related:
 - Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. (2015). On the reception and detection of pseudo-profound bullshit. Judgment and Decision Making, 10(6), 549–563. http://doi.org/10.3389/fpsyg.2013.00279
 - Dalton, C. (2016). Bullshit for you; transcendence for me . A commentary on “On the reception and detection of pseudo-profound bullshit.” Judgment and Decision Making, 11(1), 121–122.
+
