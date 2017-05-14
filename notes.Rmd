@@ -4,23 +4,63 @@
 The research question concerns whether people care whether what they believe is actually true? That is, do they value truth?
 
 ## Truth definition
-What is truth? Truth is in direct relation to reality, it has a “relational property involving a characteristic relation (to be specified) to some portion of reality (to be specified)”, according to correspondence theory (Marian, 2016). That is, truth corresponds with facts. Although all facts could be disputed in a philosophical sense, we want to avoid this avenue by conceptualising facts in the general sense understood by the general public. That is, a statement which corresponds to an event or occurrence in reality. We want to measure the underlying construct which compels people to fact check news stories, or seek scientific information regarding the efficacy of horoscopes predicting/determining the future, and to seek that information in an impartial way on order to find the truth or the best evidence available. We are not concerned with value judgements, the ability to determine whether something is true or not, or whether a person holds predominantly true beliefs. We are concerned with their motivation to find the most objective and factual evidence. 
+What is truth? According to correspondence theory (Marian, 2016) truth corresponds with facts and empirical evidence. Although this could be disputed in a philosophical sense, we want to avoid this avenue by conceptualising facts in the general sense understood by the general public...
+
+We want to measure the underlying construct which compels people to fact check news stories, or seek scientific information regarding the efficacy of horoscopes predicting/determining the future, and to seek that information in an impartial way on order to find the truth or the best evidence available. We are not concerned with value judgements, the ability to determine whether something is true or not, or whether a person holds predominantly true beliefs. We are concerned with their motivation to find the most objective and factual evidence. 
+
+Given that beliefs are a matter of degree (ref), We are also concerned with whether people believe things a little bit (CLARIFY). 
 
 Lynch (2004) argues that caring for truth is different from simply believing the truth. Truth can be acquired through no particular virtue of the individual, but caring about truth requires one to strive for truth; to put effort in. Lynch argues that to care about truth is to strive for truth behaviourally; to have a character orientated towards truth. This includes being open minded, questioning assumptions, and paying attention to detail. 
 It also involves being intellectually virtuous which entails striving for truth across many domains. That is, not just listening to others when one is obliged to do so or for shame’s sake, but having a willingness to actively engage with others to ensure alternative perspectives have been considered and will change beliefs appropriately given evidence. Striving for truth in across all domains reflects that one values knowing the truth for the sake of it, rather than believing whatever helps achieve one’s goals. Must seek and be open to truth precisely because it is the truth.
+
 Lynch argues caring for truth also manifests as a willingness to stand up for what you believe, not just when it is convenient, but even when it goes against the crowd. Must stand up for truth because it is right to do so, not just because a specific fact fits with your goals and motivations. “… a person of intellectual integrity stands for what she thinks is true precisely because she thinks it is true.” Hence, must pursue the truth overall, not just when it suits you. This contrasts with someone who believes/acts out of necessity to attain their goal, regardless of the truth. Hence, caring about truth means taking steps to avoid motivated reasoning. Lynch has outlined some characteristics of those who care about believing what is true and strive to attain that goal. 
 
 ## Questions
 
-Measuring agreement with statements that reflect such behaviours could be used to assess the underlying construct, for example, ‘I try to fact check the stories I here in the news with reliable sources.’
+Measuring agreement with statements that reflect such behaviours could be used to assess the underlying construct, for example, ‘I try to fact check the stories I here in the news with reliable sources.’ However, behavioural measures pose a problem, see NFC in Related Scales.
 
 Or perhaps we should avoid measuring behaviours which may add noise to participants’ responses. Could focus on attitudes towards truth, e.g., ‘I care about finding the truth for its own sake, not any practical purpose it could serve.’
 
-Or have both behavioural and attitudinal subscales?
+This poses some questions, such as how much does the average person care about truth itself, compared with desiring accuracy as a means to an end? How can we disentangle believing what is true because it serves a practical purpose vs believing what is true based on an intrinsic value of truth? Do we want to?
 
-This poses some questions, such as how much does the average person care about truth itself, compared with desiring accuracy as a means to an end? How can we disentangle believing what is true because it serves a practical purpose vs believing what is true based on an intrinsic value of truth?
+Maybe we should control for the perception of the attainability of objective truth? (DeBacker, Crowson, Beesley, Thoma, & Hestevold, 2008; Schommer, 1994).
 
-Maybe we should control for the attainability of objective truth? (DeBacker, Crowson, Beesley, Thoma, & Hestevold, 2008; Schommer, 1994). Some items from the 
+
+### How is our scale different from related scales?
+A throuough search on Google Scholar using keywords valuing truth scale, desire for truth, caring about truth yielded no indication that a scale identical to what we wish to create has already been developed. However, scales that measure related concepts might be too similar in some respects.
+
+#### Bullshit Receptivity Scale 
+Pennycook, Cheyne, Barr, Koehler, and Fugelsang (2015) created a scale to measure bullshit receptivity. They define bullshit, in line with Frankfurt (1986), as the disregard for the truth. The scale. The 20-item Bullshit Receptivity (BSR) scale captures receptivity of pseudo-profound bullshit specifically. It consists of asking participants to rate how profound they perceived vague randomly generated syntactically correct sentences consisting of buzzwords. The scale has high internal consistency with student and MTurk samples. Most participants found the statements to be somewhat profound. The BRS correlates negatively with a heuristics and biases battery, and positively with Faith in Intuition, ontological confusion, religious beliefs and paranormal beliefs. 
+
+Pennycook et al. argue that bullshit receptivity could be due to an excessively open mind, conflict monitoring failures or the lack of realisation that scientific scepticism is required. The first two concepts may influence participants’ responses to our scale (???). However, the latter directly relates to what we want to measure. If individuals are motivated to seek the truth they should also be aware scepticism is always required. 
+
+Pennycook et al. describe the capacity to do the necessary thinking to determine what is true, but also “the willingness to engage deliberative reasoning processes (i.e., analytic cognitive style; thinking disposition).” By talking bullshit, one disregards the truth. By being receptive to bullshit, one also disregards the truth, or perhaps simply does not see the need for scepticism or critical thinking. Hence, our scale will not just measure the same characteristic as the BRS but in the opposite direction. The BRS measures receptivity, while we aim to measure the motivation to overcome that receptivity.
+
+Pennycook et al. argue that there is a tendecy to belief everything we hear. Gilbert, Tafarodi and Malone (1993) found that believing is part of comprehension. That is, when presented with information, it is automatically assumed to be true so that it can be understood and that more processing power/cognitive effort is required to evaluate whether it is true or not. We want to measure the motivation to overcome this bias? This brings us to NFC.
+
+#### Need for Cognition
+If Gilbert, Tafarodi and Malone (1993) are correct in that people believe everything they hear upon hearing it and must engage in extra cognitive effort to classify that information as false, then what we want to measure is the motivation to think more in order to find out the truth. But is there evidence to the contrary? 
+
+Cacioppo, Petty and Morris’ (1983) research shows those with a high need for cognition tend to deliberate on and evaluate the quality of persuasive arguments. If we measure valuing truth by the tendency to seek further information and elaborate upon concepts one encounters then perhaps behavioural items will just be measuring NFC. Does need for cognition measure motivation?
+
+#### Faith in intuition
+The items of this scale relate to relying on first impressions of people and gut feelings in decisions. This does not directly get at whether they value the truth or are motivated to find it. Although if a person has faith in their intuition they will not see the need to search for the truth beyond what they already believe to be the truth. This raises an important issue that some people will believe that their beliefs are true simply because they think they are (i.e., believe in their own intuition). I suspect these people may indicate that they value truth in an abstract sense. To differentiate these people from those who really value truth, it seems that behavioural measures related to searching for information will achieve this best. Hence, the behavioural measures are very important, yet I am concerned regarding NFC comments. 
+
+#### Cognitive Reflection Test
+CRT measures ability to overcome initial response instinct, along with numeracy and reflectivity. The emphasis here is not ability, we want to measure motivation. 
+
+#### Belief in science scale
+This measures belief, not motivation, although ours should correlated with this. The scale taps items referring to belief in science as a social construct and only refers to the word ‘science’, hence, may reflect the tendency to believe what scientists tell you or support science as a worthwhile endeavour. However, it does not measure endorsement of, or adherence to the scientific method as a way to improve thinking and evaluation. 
+
+#### Motivated Reasoning
+
+#### Science Curiosity Scale (SCS)
+
+
+
+### Is our scale valuable different?
+Studies have found that NFC, typical intellectual engagement, epistemic curiosity, and openness to ideas were all strongly intercorrelated. Would we just add to this pile? If it is strongly related to other scales, such as need for cognition, then what purpose would having a scale to directly measure valuing truth have in terms of research purposes? Fleischhauer, Enge, Brocke, Ullrich, Strobel, Strobel (2009) found that NFC and openness to ideas are very strongly correlated but each still has value because each construct correlates differently with other traits. NFC correlates more strongly with emotional stability and activity compared with openness to ideas which is more related to seeking novelty and new experiences. This shows that even if two constructs are strongly correlated, one is not necessarily redundant.  Hence, a valuing truth scale would be useful to directly measure the underlying construct which may be able to predict behaviours of interest most accurately. 
+
 
 
 ## Steps
@@ -31,5 +71,6 @@ Maybe we should control for the attainability of objective truth? (DeBacker, Cro
 - Construct scale
 - Perform item analysis (PCA?)
 - Test construct validity
+
 
 
