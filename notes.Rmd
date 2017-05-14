@@ -39,8 +39,6 @@ Pennycook et al. describe the capacity to do the necessary thinking to determine
 Pennycook et al. argue that there is a tendecy to belief everything we hear. Gilbert, Tafarodi and Malone (1993) found that believing is part of comprehension. That is, when presented with information, it is automatically assumed to be true so that it can be understood and that more processing power/cognitive effort is required to evaluate whether it is true or not. We want to measure the motivation to overcome this bias? This brings us to NFC.
 
 #### Need for Cognition
-http://www.psy.ohio-state.edu/petty/documents/ncogscale.pdf
-
 If Gilbert, Tafarodi and Malone (1993) are correct in that people believe everything they hear upon hearing it and must engage in extra cognitive effort to classify that information as false, then what we want to measure is the motivation to think more in order to find out the truth. But is there evidence to the contrary? 
 
 Cacioppo, Petty and Morris’ (1983) research shows those with a high need for cognition tend to deliberate on and evaluate the quality of persuasive arguments. If we measure valuing truth by the tendency to seek further information and elaborate upon concepts one encounters then perhaps behavioural items will just be measuring NFC. Does need for cognition measure motivation?
@@ -55,6 +53,9 @@ CRT measures ability to overcome initial response instinct, along with numeracy 
 This measures belief, not motivation, although ours should correlated with this. The scale taps items referring to belief in science as a social construct and only refers to the word ‘science’, hence, may reflect the tendency to believe what scientists tell you or support science as a worthwhile endeavour. However, it does not measure endorsement of, or adherence to the scientific method as a way to improve thinking and evaluation. 
 
 #### Motivated Reasoning
+
+#### Science Curiosity Scale (SCS)
+
 
 
 ### Is our scale valuable different?
