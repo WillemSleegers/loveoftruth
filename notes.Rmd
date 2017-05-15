@@ -55,7 +55,7 @@ This measures belief, not motivation, although ours should correlated with this.
 #### Motivated Reasoning
 
 #### Science Curiosity Scale (SCS)
-
+"The “science curiosity” measure was a tool developed to measure a distinctive appetite for consuming science-related media for personal edification; it involves a scale that com- bines self-report with behavioral and performance measures (Kahan, Carpenter, & Landrum, 2015)"
 
 
 ### Is our scale valuable different?
