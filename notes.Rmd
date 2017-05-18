@@ -25,6 +25,22 @@ This poses some questions, such as how much does the average person care about t
 
 Maybe we should control for the perception of the attainability of objective truth? (DeBacker, Crowson, Beesley, Thoma, & Hestevold, 2008; Schommer, 1994).
 
+###  Examples
+The attitudes we are concerned with is attitudes towards the truth which show that the person does not care about whether what they believe is true. To be clear, we are not concerned with whether they believe everything that is true; obviously no one is omniscient. We are concerned with whether people think 'I know this isn't true but I want to believe it anyway', this may be either implicitly or explicitly. It would be implicit if the person's behaviour indicates that they do believe something that they should not. Any belief where empirical evidence is disregarded. We want to capture and separate out people who believe something without knowing anything about the evidence and people who believe something despite the evidence. 
+
+An example of this is things people believe where there is no evidence, e.g., fake news, astrology, phychic mediums, ghosts, intuition, homeopathy, chiropractic medicine, 
+
+We are also concerned with disbelief of something for which there is substandtial empirical evidence and agreement among experts/scientists, e.g., climate change. 
+
+#### Tweets 
+People often blatantly disregard the truth on Twitter. For example, ... 
+
+searched don't know if this is true but ...
+kinda but not really: https://twitter.com/tribelaw/status/856095312590643200?lang=en
+
+searched don't care if this is true but ...
+
+
 
 ### How is our scale different from related scales?
 A throuough search on Google Scholar using keywords valuing truth scale, desire for truth, caring about truth yielded no indication that a scale identical to what we wish to create has already been developed. However, scales that measure related concepts might be too similar in some respects.
@@ -50,7 +66,7 @@ The items of this scale relate to relying on first impressions of people and gut
 CRT measures ability to overcome initial response instinct, along with numeracy and reflectivity. The emphasis here is not ability, we want to measure motivation. 
 
 #### Belief in science scale
-This measures belief, not motivation, although ours should correlated with this. The scale taps items referring to belief in science as a social construct and only refers to the word ‘science’, hence, may reflect the tendency to believe what scientists tell you or support science as a worthwhile endeavour. However, it does not measure endorsement of, or adherence to the scientific method as a way to improve thinking and evaluation. 
+This measures belief, not motivation, although ours should correlated with this. The scale taps items referring to belief in science as a social construct and only refers to the word ‘science’, hence, may reflect the tendency to believe what scientists tell you or support science as a worthwhile endeavour. However, it does not measure endorsement of, or adherence to the scientific method as a way to improve thinking and evaluation. Our scale will be orientated towards beliefs in any domain, not just related to science. 
 
 #### Motivated Reasoning
 
@@ -60,7 +76,6 @@ This measures belief, not motivation, although ours should correlated with this.
 
 ### Is our scale valuable different?
 Studies have found that NFC, typical intellectual engagement, epistemic curiosity, and openness to ideas were all strongly intercorrelated. Would we just add to this pile? If it is strongly related to other scales, such as need for cognition, then what purpose would having a scale to directly measure valuing truth have in terms of research purposes? Fleischhauer, Enge, Brocke, Ullrich, Strobel, Strobel (2009) found that NFC and openness to ideas are very strongly correlated but each still has value because each construct correlates differently with other traits. NFC correlates more strongly with emotional stability and activity compared with openness to ideas which is more related to seeking novelty and new experiences. This shows that even if two constructs are strongly correlated, one is not necessarily redundant.  Hence, a valuing truth scale would be useful to directly measure the underlying construct which may be able to predict behaviours of interest most accurately. 
-
 
 
 ## Steps
