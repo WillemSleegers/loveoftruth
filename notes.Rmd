@@ -68,12 +68,13 @@ There is no scale to measure motivated reasoning.
 
 
 #### Science Curiosity Scale (SCS)
-"The “science curiosity” measure was a tool developed to measure a distinctive appetite for consuming science-related media for personal edification; it involves a scale that com- bines self-report with behavioral and performance measures (Kahan, Carpenter, & Landrum, 2015)"
+"The “science curiosity” measure was a tool developed to measure a distinctive appetite for consuming science-related media for personal edification; it involves a scale that com- bines self-report with behavioral and performance measures (Kahan, Carpenter, & Landrum, 2015)" This captures the extent to which a person is motivated to find interesting scientific information for the fun of learning. We are interested in the motivation to find evidence so that one's believes are grounded in evidence.
 
 
-### Is our scale valuable different?
-Studies have found that NFC, typical intellectual engagement, epistemic curiosity, and openness to ideas were all strongly intercorrelated. Would we just add to this pile? If it is strongly related to other scales, such as need for cognition, then what purpose would having a scale to directly measure valuing truth have in terms of research purposes? Fleischhauer, Enge, Brocke, Ullrich, Strobel, Strobel (2009) found that NFC and openness to ideas are very strongly correlated but each still has value because each construct correlates differently with other traits. NFC correlates more strongly with emotional stability and activity compared with openness to ideas which is more related to seeking novelty and new experiences. This shows that even if two constructs are strongly correlated, one is not necessarily redundant.  Hence, a valuing truth scale would be useful to directly measure the underlying construct which may be able to predict behaviours of interest most accurately. 
+### Is our scale valuably different?
+The more the better: Studies have found that NFC, typical intellectual engagement, epistemic curiosity, and openness to ideas were all strongly intercorrelated. Would we just add to this pile? If it is strongly related to other scales, such as need for cognition, then what purpose would having a scale to directly measure valuing truth have in terms of research purposes? Fleischhauer, Enge, Brocke, Ullrich, Strobel, Strobel (2009) found that NFC and openness to ideas are very strongly correlated but each still has value because each construct correlates differently with other traits. NFC correlates more strongly with emotional stability and activity compared with openness to ideas which is more related to seeking novelty and new experiences. This shows that even if two constructs are strongly correlated, one is not necessarily redundant.  Hence, a valuing truth scale would be useful to directly measure the underlying construct which may be able to predict behaviours of interest most accurately. 
 
+This scale is valuably different because people frequently engage in motivated reasoning and 
 
 
 
