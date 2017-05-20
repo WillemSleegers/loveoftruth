@@ -19,6 +19,8 @@
 - Echo chambers aren't so bad, I only want to be exposed to the views of people who share my beliefs and values. 
 - I know the headline definitely cannot be true, but I like to read those stories anyway. 
 - Generally for me, the story is more important that the facts.
+- I think it's good to change my mind when new facts arise. 
+- I stick to my beliefs even if new evidence suggests they are not true. 
 
 ## Affect
 - I believe things that make me feel good, even if that’s not exactly objective fact. R
@@ -33,6 +35,8 @@
 - I stand up for what I believe to be true even if it goes against what those around me think.
 - I do not share something online unless I have fact checked it first. 
 - I use fact checking websites regularly. 
+- I try to evaluate new information in the wider context. 
+- I consider the validity of the source when evaluating the veracity information. 
 
 
 ## Domains
@@ -59,3 +63,5 @@
 
 ## Motivated reasoning ...? 
 To measure the extent to which people think motivated reasoning is justified. 
+
+Evidential threshold: some need a higher level of evidence before they believe while some believe straight away… 
