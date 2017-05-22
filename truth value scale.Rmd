@@ -2,17 +2,11 @@
 
 ## Cognitive 
 - Sometimes I think ‘I know this isn’t true but I will believe it anyway’. 
-- I strive to believe what is true.
 - I try to think of how my bias influences my decisions in order to overcome them. 
 - I acknowledge that I am biased.
 - Truth is constant and universal, it doesn’t matter what you were raised to believe. 
-- Everyone has their own truth, things that they believe is right. R
-- It is ok to believe something if it makes you feel better about the world, even if it’s not completely true. R
 - It’s ok to believe something if it leads you to do something good for yourself or others, even if it’s not true. R
-- I probably believe somethings because it’s convenient, especially if the subject is trivial.
-- I only need to believe what is true so that I can live my life as I want. R
-- I do not care about the exact truth, if I have sufficient knowledge/understanding to live my life. R
-- I care about finding the truth for its own sake, not any practical purpose it could serve.
+- I probably believe somethings because it’s convenient, especially if it's is trivial.
 - Everyone’s beliefs are equally valid. Respect for unsupported believes.
 - Striving to believe what is truth is not the most important thing about processing information. 7
 - I like that my search engine provides me with information that is in line with my beliefs, even if this means I don't get every side of the story. 
@@ -27,6 +21,7 @@
 - I believe some things because they are fun, it does not really matter whether they are true or not. R
 - I believe what there is evidence for, even if it hurts me.
 - I want to know the truth even if it makes me feel bad.
+- It is ok to believe something if it makes you feel better about the world, even if it’s not completely true. R
 - 
 
 ## Behavioural / Motivation to find truth
@@ -39,11 +34,13 @@
 - I consider the validity of the source when evaluating the veracity information. 
 
 
-## Domains
-- I care about knowing what's real regarding more things.
-- I want to know the truth about the things I really care about. 
-
- Value unbiased assimilation
+## Domains (I don't think this will work)
+- I care about evidence when deciding what political party to support.
+- I search for evidence for things in my personal life.
+- I search for scientific evidence 
+- I think it is important that my beliefs do not contradict one another.
+- I need evidence in all aspects of my life before I believe something. 
+- I know there is no evidence for some of my beliefs but I 
  Value for rationality, consistency across belief systems, justification for beliefs (evidence)
  No evidence or evidence in the contrary… but I like to think that it is this way. 
  
@@ -51,17 +48,25 @@
 - Without
 - I never make conclusions until I have sufficient evidence. R
 - Somethings I know that something is to be true, I do not need evidence.
-- 
 
 - Despte
 - Empricial evidence is just one side of things -
 - Someitmes evidence can be misleading, I like to 
 
 ## Intuition
-- Must be different from Faith in Intuition... what purpose does this serve?
+- Must be different from Faith in Intuition... what purpose does this serve? One that applies to political life. 
+ 
 
 
 ## Motivated reasoning ...? 
 To measure the extent to which people think motivated reasoning is justified. 
 
 Evidential threshold: some need a higher level of evidence before they believe while some believe straight away… 
+
+## Truth is intrinscially valuable
+- I only need to believe what is true so that I can live my life as I want. R
+- I do not care about the exact truth, if I have sufficient knowledge/understanding to live my life. R
+- I care about finding the truth for its own sake, not any practical purpose it could serve.
+
+## Relativism
+- Everyone has their own truth, things that they believe is right. R
