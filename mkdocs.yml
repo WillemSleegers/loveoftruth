@@ -1,0 +1,10 @@
+site_name: Truth Concern Scale
+pages:
+    - Home: index.md
+    - About: about.md
+    - Notes: notes.Rmd
+    - Scale: truth value scale.Rmd
+    - Related scales: related scales.Rmd
+    - Todo: todo.Rmd
+    - References: references.Rmd
+theme: readthedocs
