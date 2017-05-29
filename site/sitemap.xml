@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-05-14</lastmod>
+     <lastmod>2017-05-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,39 @@
     
     <url>
      <loc>/about/</loc>
-     <lastmod>2017-05-14</lastmod>
+     <lastmod>2017-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/notes/</loc>
+     <lastmod>2017-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/truth value scale/</loc>
+     <lastmod>2017-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/todo/</loc>
+     <lastmod>2017-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/references/</loc>
+     <lastmod>2017-05-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
