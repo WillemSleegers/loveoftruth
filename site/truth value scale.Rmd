@@ -1,18 +1,78 @@
 # Truth Value Scale
 
-- I strive to believe what is true. 
-- I never make conclusions until I have sufficient evidence.
+## Cognitive 
+- Sometimes I think ‘I know this isn’t true but I will believe it anyway’. 
+- I try to think of how my bias influences my decisions in order to overcome them. 
+- I acknowledge that I am biased.
+- Truth is constant and universal, it doesn’t matter what you were raised to believe. 
+- It’s ok to believe something if it leads you to do something good for yourself or others, even if it’s not true. R
+- I probably believe somethings because it’s convenient, especially if it's is trivial.
+- Everyone’s beliefs are equally valid. Respect for unsupported believes.
+- Striving to believe what is truth is not the most important thing about processing information. 7
+- I like that my search engine provides me with information that is in line with my beliefs, even if this means I don't get every side of the story. 
+- Echo chambers aren't so bad, I only want to be exposed to the views of people who share my beliefs and values. 
+- I know the headline definitely cannot be true, but I like to read those stories anyway. 
+- Generally for me, the story is more important that the facts.
+- I think it's good to change my mind when new facts arise. 
+- I stick to my beliefs even if new evidence suggests they are not true. 
+
+## Affect
+- I believe things that make me feel good, even if that’s not exactly objective fact. R
 - I believe some things because they are fun, it does not really matter whether they are true or not. R
+- I believe what there is evidence for, even if it hurts me.
+- I want to know the truth even if it makes me feel bad.
+- It is ok to believe something if it makes you feel better about the world, even if it’s not completely true. R
+- 
+
+## Behavioural / Motivation to find truth
+- I like to do my own reading on topics, rather than accept what others around me believe.
 - I try to fact check the stories I here in the news with reliable sources. 
+- I stand up for what I believe to be true even if it goes against what those around me think.
+- I do not share something online unless I have fact checked it first. 
+- I use fact checking websites regularly. 
+- I try to evaluate new information in the wider context. 
+- I consider the validity of the source when evaluating the veracity information. 
+
+
+## Domains (I don't think this will work)
+- I care about evidence when deciding what political party to support.
+- I search for evidence for things in my personal life.
+- I search for scientific evidence 
+- I think it is important that my beliefs do not contradict one another.
+- I need evidence in all aspects of my life before I believe something. 
+- I know there is no evidence for some of my beliefs but I 
+ Value for rationality, consistency across belief systems, justification for beliefs (evidence)
+ No evidence or evidence in the contrary… but I like to think that it is this way. 
+ 
+## Differentiate between people who belief without vs despite the evidence
+- Without
+- I never make conclusions until I have sufficient evidence. R
+- Somethings I know that something is to be true, I do not need evidence.
+
+- Despte
+- Empricial evidence is just one side of things -
+- Someitmes evidence can be misleading, I like to 
+
+## Intuition
+- Must be different from Faith in Intuition... what purpose does this serve? One that applies to political life. 
+ 
+
+
+## Motivated reasoning ...? 
+To measure the extent to which people think motivated reasoning is justified. 
+
+Evidential threshold: some need a higher level of evidence before they believe while some believe straight away… 
+
+## Truth is intrinscially valuable
 - I only need to believe what is true so that I can live my life as I want. R
 - I do not care about the exact truth, if I have sufficient knowledge/understanding to live my life. R
 - I care about finding the truth for its own sake, not any practical purpose it could serve.
-- I believe things that make me feel good, even if that’s not exactly objective reality. R
-- I probably believe somethings because it’s convenient, especially if the subject is trivial.
-- I like to do my own reading on topics, rather than accept what others around me believe.
-- It is ok to believe something if it makes you feel better about the world, even if it’s not completely true. R
-- It’s ok to believe something if it leads you to do something good for yourself or others, even if it’s not true. R
+
+## Relativism
 - Everyone has their own truth, things that they believe is right. R
+<<<<<<< HEAD:site/truth value scale.Rmd
 h- Truth is constant and universal, it doesn’t matter what you were raised to believe. 
 - I acknowledge that I am biased.
 - I try to think of how my bias influences my decisions in order to overcome them. 
+=======
+>>>>>>> ff688c9f1f4fe75d6c9ad6788cd2d714542c8bc5:truth value scale.Rmd
