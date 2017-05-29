@@ -1,2 +1,0 @@
-# Truth Concern Scale
-
